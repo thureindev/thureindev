@@ -28,37 +28,35 @@ I'm a Web Developer specializing in MERN stack, with a knack for Python and PHP.
 - Instagram: [<img src="./images/instagram-logo.jpg" width="20" height="20"/>](https://www.instagram.com/thureindev/)
 - Portfolio: [https://thureindev.github.io](https://thureindev.github.io/)
 
-
 ## My Skills
 - **Languages**: 
-  ![JavaScript](./images/javascript.jpg) 
-  ![TypeScript](./images/typescript.jpg) 
-  ![Python](./images/python.jpg) 
-  ![PHP](./images/php.jpg)
+  <img src="./images/javascript.jpg" alt="JavaScript" height="50" /> 
+  <img src="./images/typescript.jpg" alt="TypeScript" height="50" /> 
+  <img src="./images/python.jpg" alt="Python" height="50" /> 
+  <img src="./images/php.jpg" alt="PHP" height="50" />
 - **Web Development**: 
-  ![NodeJS](./images/nodejs.jpg) 
-  ![React](./images/react.jpg) 
-  ![Vite](./images/vite.jpg) 
-  ![ExpressJS](./images/expressjs.jpg) 
-  ![Flask](./images/flask.jpg) 
-  ![Jekyll](./images/jekyll.jpg) 
+  <img src="./images/nodejs.jpg" alt="NodeJS" height="50" /> 
+  <img src="./images/react.jpg" alt="React" height="50" /> 
+  <img src="./images/vite.jpg" alt="Vite" height="50" /> 
+  <img src="./images/expressjs.jpg" alt="ExpressJS" height="50" /> 
+  <img src="./images/flask.jpg" alt="Flask" height="50" /> 
+  <img src="./images/jekyll.jpg" alt="Jekyll" height="50" /> 
 - **Frontend**:
-  ![SASS](./images/sass.jpg) 
-  ![Bootstrap](./images/bootstrap.jpg) 
-  ![Tailwind](./images/tailwind.jpg) 
-  ![Materialize CSS](./images/materializecss.jpg)
-  ![HTML5](./images/html5.jpg) 
-  ![CSS3](./images/css3.jpg)
+  <img src="./images/sass.jpg" alt="SASS" height="50" /> 
+  <img src="./images/bootstrap.jpg" alt="Bootstrap" height="50" /> 
+  <img src="./images/tailwind.jpg" alt="Tailwind" height="50" /> 
+  <img src="./images/materializecss.jpg" alt="Materialize CSS" height="50" />
+  <img src="./images/html5.jpg" alt="HTML5" height="50" /> 
+  <img src="./images/css3.jpg" alt="CSS3" height="50" />
 - **Databases**: 
-  ![MongoDB](./images/mongodb.jpg) 
-  ![MySQL](./images/mysql.jpg) 
-  ![PostgreSQL](./images/postgresql.jpg)
+  <img src="./images/mongodb.jpg" alt="MongoDB" height="50" /> 
+  <img src="./images/mysql.jpg" alt="MySQL" height="50" /> 
+  <img src="./images/postgresql.jpg" alt="PostgreSQL" height="50" />
 - **Tools**: 
-  ![Git](./images/git.jpg) 
-  ![Docker](./images/docker.jpg) 
-  ![Jenkins](./images/jenkins.jpg)
-  ![Kubernetes](./images/kubernetes.jpg)
-
+  <img src="./images/git.jpg" alt="Git" height="50" /> 
+  <img src="./images/docker.jpg" alt="Docker" height="50" /> 
+  <img src="./images/jenkins.jpg" alt="Jenkins" height="50" />
+  <img src="./images/kubernetes.jpg" alt="Kubernetes" height="50" />
 
 ## Recent Projects
 - **Tipsy Tavern**: Open your fridge and make a cocktail [https://thureindev.github.io/tipsy-tavern](#)
