@@ -25,16 +25,40 @@ I'm a Web Developer specializing in MERN stack, with a knack for Python and PHP.
 ## Connect with me
 - LinkedIn: [<img src="./images/linkedin-logo.png" width="20" height="20"/>](https://www.linkedin.com/in/thureindev/)
 - Twitter: [<img src="./images/twitter-logo.png" width="20" height="20"/>](https://twitter.com/thureindev)
-- Instagram: [<img src="./images/instagram-logo.png" width="20" height="20"/>](https://www.instagram.com/thureindev/)
-- Portfolio: [<img src="./images/portfolio-logo.png" width="20" height="20"/>](https://thureindev.github.io/)
+- Instagram: [<img src="./images/instagram-logo.jpg" width="20" height="20"/>](https://www.instagram.com/thureindev/)
+- Portfolio: [https://thureindev.github.io](https://thureindev.github.io/)
 
 
 ## My Skills
-- **Languages**: JavaScript, TypeScript, Python, PHP
-- **Web Development**: NodeJS, React, Vite, HTML, CSS
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools**: Git, Docker, Jenkins
-- **Others**: Microservices, Kubernetes
+- **Languages**: 
+  ![JavaScript](./images/javascript.jpg) 
+  ![TypeScript](./images/typescript.jpg) 
+  ![Python](./images/python.jpg) 
+  ![PHP](./images/php.jpg)
+- **Web Development**: 
+  ![NodeJS](./images/nodejs.jpg) 
+  ![React](./images/react.jpg) 
+  ![Vite](./images/vite.jpg) 
+  ![ExpressJS](./images/expressjs.jpg) 
+  ![Flask](./images/flask.jpg) 
+  ![Jekyll](./images/jekyll.jpg) 
+- **Frontend**:
+  ![SASS](./images/sass.jpg) 
+  ![Bootstrap](./images/bootstrap.jpg) 
+  ![Tailwind](./images/tailwind.jpg) 
+  ![Materialize CSS](./images/materializecss.jpg)
+  ![HTML5](./images/html5.jpg) 
+  ![CSS3](./images/css3.jpg)
+- **Databases**: 
+  ![MongoDB](./images/mongodb.jpg) 
+  ![MySQL](./images/mysql.jpg) 
+  ![PostgreSQL](./images/postgresql.jpg)
+- **Tools**: 
+  ![Git](./images/git.jpg) 
+  ![Docker](./images/docker.jpg) 
+  ![Jenkins](./images/jenkins.jpg)
+  ![Kubernetes](./images/kubernetes.jpg)
+
 
 ## Recent Projects
 - **Tipsy Tavern**: Open your fridge and make a cocktail [https://thureindev.github.io/tipsy-tavern](#)
