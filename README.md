@@ -23,9 +23,9 @@ I'm a Web Developer specializing in MERN stack, with a knack for Python and PHP.
 - 📫 How to reach me: [thureindev@outlook.com](mailto:thureindev@outlook.com)
 
 ## Connect with me
-- LinkedIn: [<img src="./images/linkedin-logo.png" width="20" height="20"/>](https://www.linkedin.com/in/thureindev/)
-- Twitter: [<img src="./images/twitter-logo.png" width="20" height="20"/>](https://twitter.com/thureindev)
-- Instagram: [<img src="./images/instagram-logo.jpg" width="20" height="20"/>](https://www.instagram.com/thureindev/)
+- LinkedIn: [<img src="./images/linkedin-logo.png" width="50" height="50"/>](https://www.linkedin.com/in/thureindev/)
+- Twitter: [<img src="./images/twitter-logo.png" width="50" height="50"/>](https://twitter.com/thureindev)
+- Instagram: [<img src="./images/instagram-logo.jpg" width="50" height="50"/>](https://www.instagram.com/thureindev/)
 - Portfolio: [https://thureindev.github.io](https://thureindev.github.io/)
 
 ## My Skills
