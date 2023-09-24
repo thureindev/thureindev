@@ -65,5 +65,5 @@ I'm a Web Developer specializing in MERN stack, with a knack for Python and PHP.
 ## Get in Touch
 Feel free to contact me for web projects, collaborations, or just for a chat. Also, I’m actively looking for a juicy full-time job, so if you have something exciting, let’s talk!
 - 📧 Email: [thureindev@outlook.com](mailto:thureindev@outlook.com)
-- 🌐 Portfolio: [<img src="./images/portfolio-logo.png" width="20" height="20"/>](https://thureindev.github.io/)
+- 🌐 Portfolio: [thureindev.github.io](https://thureindev.github.io/)
 
