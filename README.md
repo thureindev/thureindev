@@ -23,6 +23,7 @@ I'm a Web Developer specializing in MERN stack, with a knack for Python and PHP.
   <img src="./images/nodejs.png" alt="NodeJS" height="50" /> 
   <img src="./images/react.png" alt="React" height="50" /> 
   <img src="./images/vite.png" alt="Vite" height="50" /> 
+  <img src="./images/vue.png" alt="Vue" height="50" /> 
   <img src="./images/expressjs.png" alt="ExpressJS" height="50" /> 
   <img src="./images/flask.png" alt="Flask" height="50" /> 
   <img src="./images/jekyll.png" alt="Jekyll" height="50" /> 
